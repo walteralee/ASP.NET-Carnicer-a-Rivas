@@ -37,6 +37,7 @@ CREATE TABLE productos (
     url_imagen TEXT NOT NULL,
     precio REAL NOT NULL
 );
+```
 
 ## 🚀 Cómo ejecutar el proyecto en local
 
