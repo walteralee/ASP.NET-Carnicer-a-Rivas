@@ -59,7 +59,7 @@ git clone https://github.com/walteralee/ASP.NET-Carnicer-a-Rivas.git
 #### 2️⃣ Acceder al proyecto ASP.NET
 
 ```bash
-cd src/API_RESS_WEB_ASPNET
+cd ASP.NET-Carnicer-a-Rivas/src/API_RESS_WEB_ASPNET
 ```
 
 #### 3️⃣ Ejecutar la aplicación
