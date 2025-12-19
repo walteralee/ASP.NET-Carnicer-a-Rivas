@@ -70,9 +70,7 @@ dotnet run
 
 #### 4️⃣ Abrir la aplicación en el navegador
 
-```bash
 http://localhost:5238/
-```
 
 
 
